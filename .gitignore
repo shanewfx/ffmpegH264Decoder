@@ -22,3 +22,7 @@ x64/
 build/
 [Oo]bj/
 [Bb]in/
+
+
+DebugLog/*.ppm
+*.yuv
