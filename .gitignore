@@ -1,13 +1,24 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Ignore Visual Studio temporary files
+*.ncb
+*.opt
+*.suo
+*.user
+*.sln.docstates
+*.exp
+*.aps
+*.plg
+*.scc
+*.vspscc
+*.vssscc
+*.ilk
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# ignore Windows image file caches
+Thumbs.db
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# ignore build directories
+[Rr]elease/
+[Dd]ebug/
+x64/
+build/
+[Oo]bj/
+[Bb]in/
